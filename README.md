@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ssumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssumpw@deno/mod.js';
+import ssumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssumpw@v0.1.0-deno/mod.js';
 ```
 
 #### ssumpw( N, x, stride )
@@ -157,7 +157,7 @@ var v = ssumpw.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import ssumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssumpw@deno/mod.js';
+import ssumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssumpw@v0.1.0-deno/mod.js';
 
 var x;
 var i;
