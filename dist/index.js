@@ -6,4 +6,5 @@ var S=require('@stdlib/number-float64-base-to-float32/dist'),Z=E();function b(v,
 var g=require('@stdlib/utils-define-nonenumerable-read-only-property/dist'),B=_(),h=E();g(B,"ndarray",h);C.exports=B
 });var k=require("path").join,z=require('@stdlib/utils-try-require/dist'),A=require('@stdlib/assert-is-error/dist'),D=I(),F,K=z(k(__dirname,"./native.js"));A(K)?F=D:F=K;module.exports=F;
 /** @license Apache-2.0 */
+/** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
