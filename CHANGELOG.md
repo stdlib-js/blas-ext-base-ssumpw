@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-04)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`fcedaac`](https://github.com/stdlib-js/stdlib/commit/fcedaac9fd61fd81a1aa6d522ed2c29b21465259) - update the return type and remove unnecessary branches/tests in `blas/ext/base/ssumpw` [(#3321)](https://github.com/stdlib-js/stdlib/pull/3321)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`fcedaac`](https://github.com/stdlib-js/stdlib/commit/fcedaac9fd61fd81a1aa6d522ed2c29b21465259) - **fix:** update the return type and remove unnecessary branches/tests in `blas/ext/base/ssumpw` [(#3321)](https://github.com/stdlib-js/stdlib/pull/3321) _(by Muhammad Haris)_
 -   [`c83f108`](https://github.com/stdlib-js/stdlib/commit/c83f10824d14d8c0290b68a5f5bcedbdc2c52c6d) - **feat:** add C `ndarray` API and refactor `blas/ext/base/ssumpw` [(#3285)](https://github.com/stdlib-js/stdlib/pull/3285) _(by Snehil Shah)_
 -   [`e454c91`](https://github.com/stdlib-js/stdlib/commit/e454c91ae2af928b61effcddadb31548758f8675) - **chore:** improve code style and conditionals _(by Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
@@ -37,9 +48,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Muhammad Haris
 -   Philipp Burckhardt
 -   Snehil Shah
 
