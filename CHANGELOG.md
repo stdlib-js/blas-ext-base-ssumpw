@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-14)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`f2db85a`](https://github.com/stdlib-js/stdlib/commit/f2db85a9d8d46f224f61b0d6da9bbb36cff2b8c0) - **bench:** update benchmarks in `blas/ext/base/ssumpw` according to project conventions [(#3903)](https://github.com/stdlib-js/stdlib/pull/3903) _(by Snehil Shah)_
 -   [`fcedaac`](https://github.com/stdlib-js/stdlib/commit/fcedaac9fd61fd81a1aa6d522ed2c29b21465259) - **fix:** update the return type and remove unnecessary branches/tests in `blas/ext/base/ssumpw` [(#3321)](https://github.com/stdlib-js/stdlib/pull/3321) _(by Muhammad Haris)_
 -   [`c83f108`](https://github.com/stdlib-js/stdlib/commit/c83f10824d14d8c0290b68a5f5bcedbdc2c52c6d) - **feat:** add C `ndarray` API and refactor `blas/ext/base/ssumpw` [(#3285)](https://github.com/stdlib-js/stdlib/pull/3285) _(by Snehil Shah)_
@@ -100,7 +101,7 @@ This release closes the following issue:
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
 -   [`1852b1e`](https://github.com/stdlib-js/stdlib/commit/1852b1e1609d09a425ea0fc50397ce871e01a5d0) - **refactor:** remove explicit cast _(by Athan Reines)_
 -   [`c7f7ea9`](https://github.com/stdlib-js/stdlib/commit/c7f7ea9c2008f55462da45c9bd641add72670872) - **fix:** update build configurations _(by Athan Reines)_
--   [`412acd6`](https://github.com/stdlib-js/stdlib/commit/412acd6244c7712b84bfc9d9ebd138e7f43bd659) - **refactor:** update `blas/ext/base/ssumpw` to follow current project conventions [(#1673)](https://github.com/stdlib-js/stdlib/pull/1673) _(by Lovelin, Athan Reines)_
+-   [`412acd6`](https://github.com/stdlib-js/stdlib/commit/412acd6244c7712b84bfc9d9ebd138e7f43bd659) - **refactor:** update `blas/ext/base/ssumpw` to follow current project conventions [(#1673)](https://github.com/stdlib-js/stdlib/pull/1673) _(by Lovelin Dhoni J B, Athan Reines)_
 
 </details>
 
@@ -115,7 +116,7 @@ This release closes the following issue:
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Lovelin
+-   Lovelin Dhoni J B
 -   Philipp Burckhardt
 
 </section>
