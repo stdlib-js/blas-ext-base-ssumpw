@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-07)
+## Unreleased (2026-03-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8510d5a`](https://github.com/stdlib-js/stdlib/commit/8510d5a97f6292d1bb35ca610fee5fac307b62fc) - **bench:** refactor to use string interpolation in `blas/ext/base/ssumpw` [(#10890)](https://github.com/stdlib-js/stdlib/pull/10890) _(by Partha Das)_
 -   [`5ed244e`](https://github.com/stdlib-js/stdlib/commit/5ed244ee6047477f423d968a9b494a81c8864c46) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/ssumpw` [(#10776)](https://github.com/stdlib-js/stdlib/pull/10776) _(by Prajjwal Bajpai)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Partha Das
 -   Prajjwal Bajpai
 
 </section>
