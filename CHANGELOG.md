@@ -6,12 +6,23 @@
 
 ## Unreleased (2026-03-13)
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`51981c7`](https://github.com/stdlib-js/stdlib/commit/51981c7c552f088da5cc1a36c005a9f3d550bfea) - preserve sign of zero in native C implementation of `blas/ext/base/ssumpw`
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`51981c7`](https://github.com/stdlib-js/stdlib/commit/51981c7c552f088da5cc1a36c005a9f3d550bfea) - **fix:** preserve sign of zero in native C implementation of `blas/ext/base/ssumpw` _(by Philipp Burckhardt)_
 -   [`8510d5a`](https://github.com/stdlib-js/stdlib/commit/8510d5a97f6292d1bb35ca610fee5fac307b62fc) - **bench:** refactor to use string interpolation in `blas/ext/base/ssumpw` [(#10890)](https://github.com/stdlib-js/stdlib/pull/10890) _(by Partha Das)_
 -   [`5ed244e`](https://github.com/stdlib-js/stdlib/commit/5ed244ee6047477f423d968a9b494a81c8864c46) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/ssumpw` [(#10776)](https://github.com/stdlib-js/stdlib/pull/10776) _(by Prajjwal Bajpai)_
 
@@ -25,9 +36,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Partha Das
+-   Philipp Burckhardt
 -   Prajjwal Bajpai
 
 </section>
